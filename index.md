@@ -14,17 +14,19 @@ I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technolo
 
   Ph.D. candidate in Computer Science, supervised by Profs.Sen Su and Xiang Cheng 
 
-* **Ye Peida Colleage of Innovation and Entrepreneurship, Beijing University of Posts and Telecommunications**
+* **China University of Geosciences, Beijing, China** 2011.09-2015.06: 
 
-  Student in Logic Experimental Class, Dec. 2015 -- Jun. 2018
+  B.S. in Computer Science, GPA: 3.61/4.0
 
-* **School of Electronic Engineering, Beijing University of Posts and Telecommunications**
 
-  B.Eng. in EE (GPA 4.44/5.00 ; Ranking 2/80), Sep. 2014 -- Jun. 2018
 
 ## Publications
 
 ---
+* **Collecting Preference Rankings under Local Differential Privacy.** 
+  **Jianyu Yang**, Xiang Cheng, Sen Su, Rui Chen, Qiyu Ren, and Yuhan Liu.
+  Proceedings of the IEEE International Conference on Data Engineering (**ICDE**), 1598-1601, 2019
+
 
 * **Ruiping Li** and Xiang Cheng, "**DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning.** "
 
