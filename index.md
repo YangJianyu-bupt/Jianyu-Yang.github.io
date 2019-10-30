@@ -42,7 +42,7 @@ I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technolo
 
 ## Awards & Honors
 ------
-|:----|----:|
+|:---|---:|
 |2013.11|ACM-ICPC Asia Regional Programming Contest, ChangSha Site, Bronze Medal Award|
 - 2013.11  ACM-ICPC Asia Regional Programming Contest, ChangSha Site, Bronze Medal Award
 - 2015.06  Excellent Bachelor’s Thesis Award, China University of Geosciences, Beijing
