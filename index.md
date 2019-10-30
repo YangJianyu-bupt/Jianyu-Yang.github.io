@@ -1,7 +1,12 @@
 ## About
 ---
 
-I am a M.S. student in Computer Science at Beijing University of Posts and Telecommunications (BUPT), mainly working on Information Extraction and Knowledge Reasoning.
+I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, China, supervised by Prof. Sen Su and co-advised by Prof. Xiang Cheng. 
+
+## Research Interests
+---
+Data Privacy
+
 
 ## Education
 
