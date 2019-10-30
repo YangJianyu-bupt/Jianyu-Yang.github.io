@@ -25,12 +25,16 @@ I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technolo
 ---
 * **Collecting Preference Rankings under Local Differential Privacy.** 
 
-  **Jianyu Yang**, Xiang Cheng, Sen Su, Rui Chen, Qiyu Ren, and Yuhan Liu.  Proceedings of the IEEE International Conference on Data Engineering (**ICDE**), 1598-1601, 2019
+  **Jianyu Yang**, Xiang Cheng, Sen Su, Rui Chen, Qiyu Ren, and Yuhan Liu.  
+  
+  Proceedings of the IEEE International Conference on Data Engineering (**ICDE**), 1598-1601, 2019
   
   
 * **A Hybrid Collaborative Filtering Model for Social Influence Prediction in Event-based Social Networks.** 
 
-  Xiao Li, Xiang Cheng, Sen Su, Shuchen Li, and **Jianyu Yang**.  Neurocomputing 230: 197-209, 2017
+  Xiao Li, Xiang Cheng, Sen Su, Shuchen Li, and **Jianyu Yang**.  
+  
+  Neurocomputing 230: 197-209, 2017
   
   
 * **A Combined Collaborative Filtering Model for Social Influence Prediction in EventBased Social Networks.** 
