@@ -26,33 +26,24 @@ I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technolo
 * **Collecting Preference Rankings under Local Differential Privacy.** 
   **Jianyu Yang**, Xiang Cheng, Sen Su, Rui Chen, Qiyu Ren, and Yuhan Liu.
   Proceedings of the IEEE International Conference on Data Engineering (**ICDE**), 1598-1601, 2019
-
-
-* **Ruiping Li** and Xiang Cheng, "**DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning.** "
-
-  **EMNLP2019**, long paper, [[paper]](https://www.aclweb.org/anthology/TBD-709), [[code]](https://github.com/Ruiping-Li/DIVINE)
-
-* Sen Su, Ningning Jia, Xiang Cheng, Shuguang Zhu, **Ruiping Li**, "**Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction**"
-
-  **IJCAI2018**, long paper, [[paper]](https://www.ijcai.org/proceedings/2018/610)
+  
+* **A Hybrid Collaborative Filtering Model for Social Influence Prediction in Event-based Social Networks.** 
+  Xiao Li, Xiang Cheng, Sen Su, Shuchen Li, and **Jianyu Yang**.
+  Neurocomputing 230: 197-209, 2017
+  
+* **A Combined Collaborative Filtering Model for Social Influence Prediction in EventBased Social Networks.** 
+  Xiao Li, Xiang Cheng, Sen Su, Shuchen Li, and **Jianyu Yang**.
+  DASFAA Workshops: 142-159, 2016
 
 
 ## Awards & Honors
 ------
 
-- 2015, National Scholarship, Ministry of Education.
-- 2015, Excellent Student Cadre, BUPT.
-- 2015, Reginal Physics Competition of China, Second Award.
-- 2016, First Class Scholarship, BUPT.
-- 2016, Mathematical Contest in Modeling (MCM), Honorable Mention.
-- 2018, Excellent Graduate, Beijing.
+- 2013.11  ACM-ICPC Asia Regional Programming Contest, ChangSha Site, Bronze Medal Award
+- 2015.06, Excellent Bachelor’s Thesis Award, China University of Geosciences, Beijing
+- 2015.06, Outstanding Graduates of Beijing Ordinary Colleges and Universities (Honor), Beijing Municipal Education Commission
+- 2015.06, Outstanding Graduates of China University of Geosciences, Beijing (Honor)
 
-##  Experience
-------
-
-- IJCAI-2019 Alibaba Adversarial AI Challenge (Ranking Top 2%)
-- Research Intern xxx
-- Program committee/reviewer xxx
 
 
 
