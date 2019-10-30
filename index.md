@@ -31,9 +31,8 @@ I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technolo
   
 * **A Hybrid Collaborative Filtering Model for Social Influence Prediction in Event-based Social Networks.** 
 
-  Xiao Li, Xiang Cheng, Sen Su, Shuchen Li, and **Jianyu Yang**.
+  Xiao Li, Xiang Cheng, Sen Su, Shuchen Li, and **Jianyu Yang**.  Neurocomputing 230: 197-209, 2017
   
-  Neurocomputing 230: 197-209, 2017
   
 * **A Combined Collaborative Filtering Model for Social Influence Prediction in EventBased Social Networks.** 
 
@@ -53,5 +52,5 @@ I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technolo
 
 
 
-;#### [[中文版]](./index_cn.html)
+#### [[中文版]](./index_cn.html)
 
