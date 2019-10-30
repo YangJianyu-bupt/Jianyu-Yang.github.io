@@ -10,7 +10,7 @@ I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technolo
 ---
 
 
-* **Beijing University of Posts and Telecommunications, Beijing, China** 2015.09-present: 
+* **Beijing University of Posts and Telecommunications, Beijing, China** <h1 style="text-align:right">2015.09-present</h1>
 
   Ph.D. candidate in Computer Science, supervised by Profs.Sen Su and Xiang Cheng 
 
