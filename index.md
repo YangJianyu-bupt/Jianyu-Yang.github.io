@@ -1,11 +1,8 @@
 ## About
 ---
 
-I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, China, supervised by Prof. Sen Su and co-advised by Prof. Xiang Cheng. 
+I'm a Ph.D. student at State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, China, supervised by Prof. Sen Su and co-advised by Prof. Xiang Cheng. My reasearch interest focuses on data privacy.
 
-## Research Interests
----
-Data Privacy
 
 
 ## Education
@@ -13,9 +10,9 @@ Data Privacy
 ---
 
 
-* **State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications**
+* **Beijing University of Posts and Telecommunications, Beijing, China    2015.09-present**
 
-  M.S. Student in Computer Science, Sep. 2018 -- Present
+  Ph.D. candidate in Computer Science, supervised by Profs.Sen Su and Xiang Cheng 
 
 * **Ye Peida Colleage of Innovation and Entrepreneurship, Beijing University of Posts and Telecommunications**
 
